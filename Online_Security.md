@@ -40,17 +40,19 @@ The team behind the scam was highly organized. Then-director of the FBI, Robert 
 The operation was relatively simple by today’s standards, but managed to steal about $15 million from hundreds or even thousands of bank accounts.
 A multinational team of US based and Egyptian hackers coordinated this large-scale project. The FBI ultimately charged more than 100 individuals, relying on cooperation from Egyptian national security agents to capture nearly half of them outside United States’ territory. 47 people were convicted in a Los Angeles Federal court. (Forbes Magazine, May 15th, 2012)
 
-Quid Pro Quo
+Quid pro quo.
+A quid pro quo attack promises a service or a benefit based on the execution of a specific action. In a quid pro quo attack scenario, the hacker offers a service or benefit in exchange for information or access.
+Fake security or IT personnel contact random individuals, inform them that there’s been a computer problem on their end and ask that those individuals confirm their login crededtials or often even more 
+The most common quid pro quo attack occurs when a hacker impersonates an IT staffer for a large organization. That hacker attempts to contact via phone the employees of the target organization then offers them some kind of upgrade or software installation.
+They might request victims to facilitate the operation by disabling the AV software temporarily to install the malicious application.
 
-Quid pro quo: Similar to Baiting, but this type of threat is presented as a technical service in exchange for information. A common threat is for an attacker
-to impersonate an information technology representative and offer assistance to a victim who may be experiencing technical challenges. The attacker aims to launch malware on a user’s system.
 
 
 (MAIN POINT TWO WITH THREE SUB POINTS)
 
 People do not take security seriously. 
-Quid pro quo.
-This is a sophisticated method of attck is a hybrid version of other common methods. The attacker would offer assistance and pretend to be, for example, a technical expert when the victim is facing technical issues. The attacker would ask the victim to install malware in one way or the other or convince the victim to provide login credentials.
+
+
 (restatement of thesis)
 
 
