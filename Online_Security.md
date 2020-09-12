@@ -1,5 +1,5 @@
-MONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
-##### SPEECH TOPIC: ONLINE SECURITY - SOCIAL ENGINEERING Points to make: dangers of social engineering hacks (phishing, watering hole, whaling, pretexting, baiting and tailgating)
+MONSTERS UNDER THE BED, THE DANGER OF SOCIAL ENGINEERING
+### SPEECH TOPIC: ONLINE SECURITY - SOCIAL ENGINEERING Points to make: dangers of social engineering hacks (phishing, watering hole, whaling, pretexting, baiting and tailgating)
 
 (INTENDED AUDIENCE)
 The intended audience for this presentation is internet users in the US corporate workplace. This group of people use the internet casually but are not directly involved in information security and are not aware of the dangers presented by bad actors online. 
@@ -11,25 +11,36 @@ Workers in US corporations have frequent access to very sensitive, confidential 
 PRESENTATION PLAN
 
 (ATTENTION GETTING OPENING)
-Someone is trying to steal your personal information ! Threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most people completely vulnerable. 
+Someone is trying to steal your personal information ! Social engineering threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most people completely vulnerable. 
 
 (THESIS STATEMENT)
 Information security research suggests that social engineering attacks are extremely effective because people are naturally trusting (phishing/ quid pro quo) and because people do not take security seriously.(find data to support this)
 
-(PREVIEW OF MAIN POINTS) [needs re-writing]
+(PREVIEW OF MAIN POINTS)
 Today I am going to talk about two main points that show why social engineering attacks are so effective, these are:
 1. People are trusting
 2. People do not take security seriously
 
-
 (MAIN POINT ONE WITH THREE SUB POINTS)
-People are trusting. One of the most common social engineering attacks is called phishing. 
-Phishing
-Phishing email method of social engineering attacks and quid pro quo method of social engineering attacks.
+People are trusting.
+Phishing 
+One of the most common social engineering attacks is called phishing. Phishing is a type of social engineering attack that has been in use for decades and remains popular because gullible workers still fall for this type of attack.
+Halon, a technology leader in email security, announced the results of its U.S. survey ‘Email Spam and Related User Behavior’. Conducted by market research group TNS Global, the survey discovered that 94.7 percent of Americans received at least one email containing a virus, spyware, or malware. About one in eleven (8.8%) opened the attachment and infected their computer. Almost a third (30.2%) came dangerously close to doing the same, opening the email but stopping short of opening the attachment. These spam emails bogusly claim to come most often from banking institutions (15.9%), social media sites like Facebook or Twitter (15.2%), and online payment services (12.8%).(Halon Security Inc, 08/27/2013)
+This survey shows how very susceptible people are and how easily an attacker can make it past even the most robust, sophisticated network security. Everyone gets email. Its that easy. And educating workers about a simple, easily avoided activity can prevent a data breach that might take down the corporate network, destroy equipment or even worse, reveal confidential user data to the world.
+An example of the cost of successful phishing attacks is the FBI dubbed Operation Phish Phry.
+In 2009, the FBI called Operation Phish Phry the largest international phishing case ever conducted. Hundreds of bank and credit card customers received official-looking emails directing them towards fake financial websites. Victims entered their account numbers and passwords into fraudulent forms, giving the attackers easy access to their private data.
+The team behind the scam was highly organized. Then-director of the FBI, Robert Mueller used it as an example of how large organized crime syndicates are indiscernible from nation-state actors when it comes to ambitious, large-scale cyberattacks. There is just no way to know who the perpetrator really is until after the investigation.
+The operation was relatively simple by today’s standards, but managed to steal about $15 million from hundreds or even thousands of bank accounts.
+A multinational team of US based and Egyptian hackers coordinated this large-scale project. The FBI ultimately charged more than 100 individuals, relying on cooperation from Egyptian national security agents to capture nearly half of them outside United States’ territory. 47 people were convicted in a Los Angeles Federal court. (Forbes Magazine, May 15th, 2012)
+
+
+
+One in three Americans admit they would open an unsolicited email—even if it seems suspicious—depending on its subject line. For women, spam email messages containing invites from social networks are alluring, while men are tempted to open ones with the time-tested suggestions of money, power, and sex. Specifically, the survey found that women are more likely to open emails from social-media related accounts (8.2% to 5.6%), but that men are nearly three times as likely to open unsolicited bulk emails that promise monetary rewards (9.4% to 3.8%) and far likelier to open emails professing to include naked photos of celebrities (2.8% to 0.6%), themselves (2.3% to 0.9%) or friends (1.1% to 0%).
 The common phishing email method is a type of attack in which a message or email would redirect the victim to a legitimate-appearing site and would ask for personal identification information.
 The message would reflect a sense of urgency and test an individual’s excellent knowledge in judging information in the extreme environment.
 
 (MAIN POINT TWO WITH THREE SUB POINTS)
+People do not take security seriously. 
 Quid pro quo.
 This is a sophisticated method of attck is a hybrid version of other common methods. The attacker would offer assistance and pretend to be, for example, a technical expert when the victim is facing technical issues. The attacker would ask the victim to install malware in one way or the other or convince the victim to provide login credentials.
 (restatement of thesis)
