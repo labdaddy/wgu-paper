@@ -5,20 +5,22 @@ MONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
 The intended audience for this presentation is internet users in the US corporate workplace. This group of people use the internet casually but are not directly involved in information security and are not aware of the dangers presented by bad actors online. 
 
 (IMPORTANCE STATEMENT)
+The need for education on the basics of information security is very real. Many people do not have any idea how to keep themselves safe online and numerous bad actors are trying to steal sensitive, confidential information from wherever they can to use for personal gain. 
 Workers in US corporations have frequent access to very sensitive, confidential information such as financial, medical and other personally identifieble data for virtually everyone in the country. When exposed in data breaches this information can materially harm innocent people. 
 
 PRESENTATION PLAN
 
 (ATTENTION GETTING OPENING)
-Someone is trying to steal your information ! Because the majority of people do not have any idea how to protect themselves online 
-The need for education on the basics of information security is very real. Many people do not have any idea how to keep themselves safe online and numerous bad actors are trying to steal sensitive, confidential information from wherever they can to use for personal gain. Threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most people completely vulnerable. This paper is focused on the dangers of social engineering attacks. Studies show that 30 percent of individuals would open an email even if they were aware it was suspicous. This type of attack typically involves some form of psychological manipulation, exploiting weaknesses in human logic known as cognitive biases. NEEDS MORE
+Someone is trying to steal your personal information ! Threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most people completely vulnerable. 
 
 (THESIS STATEMENT)
-Information security research suggests that social engineering attacks are extremely effective because (a) people are trusting (phishing/ quid pro quo) and (b) because people do not take security seriously.(find data to support this)
+Information security research suggests that social engineering attacks are extremely effective because people are naturally trusting (phishing/ quid pro quo) and because people do not take security seriously.(find data to support this)
 
 (PREVIEW OF MAIN POINTS) [needs re-writing]
-EXAMPLE: The following example illustrates the thesis with the preview (in italics): “New York Fashion Week is an exciting event that many of us have heard about and during which designers reveal the upcoming season’s collection to fashion journalists and retail buyers, and in my speech, I will explain the event and share my experiences as an attendee. First I will present the event’s history, then I will preview the fashions on display and finally I will describe for you what to expect should you attend the week.”
-This clearly illustrates the need for further education on the dangers of social engineering attacks through the medium of email. In addition there is the common approach of quid pro quo social engineering attacks where an attacker poses as an authority figure or technical representative that can be trusted with sensitive or confidential information.
+Today I am going to talk about two main points that show why social engineering attacks are so effective, these are:
+1. People are trusting
+2. People do not take security seriously
+
 
 (MAIN POINT ONE WITH THREE SUB POINTS)
 Phishing
@@ -30,6 +32,12 @@ The message would reflect a sense of urgency and test an individual’s excellen
 Quid pro quo.
 This is a sophisticated method of attck is a hybrid version of other common methods. The attacker would offer assistance and pretend to be, for example, a technical expert when the victim is facing technical issues. The attacker would ask the victim to install malware in one way or the other or convince the victim to provide login credentials.
 (restatement of thesis)
+
+
+MATERIAL BELOW IS POSSIBLY USEABLE
+EXAMPLE: The following example illustrates the thesis with the preview (in italics): “New York Fashion Week is an exciting event that many of us have heard about and during which designers reveal the upcoming season’s collection to fashion journalists and retail buyers, and in my speech, I will explain the event and share my experiences as an attendee. First I will present the event’s history, then I will preview the fashions on display and finally I will describe for you what to expect should you attend the week.”
+This clearly illustrates the need for further education on the dangers of social engineering attacks through the medium of email. In addition there is the common approach of quid pro quo social engineering attacks where an attacker poses as an authority figure or technical representative that can be trusted with sensitive or confidential information.
+This paper is focused on the dangers of social engineering attacks. Studies show that 30 percent of individuals would open an email even if they were aware it was suspicous. This type of attack typically involves some form of psychological manipulation, exploiting weaknesses in human logic known as cognitive biases. NEEDS MORE
 
 RESTATEMENT OF THESIS
 
