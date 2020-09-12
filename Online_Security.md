@@ -2,12 +2,15 @@ ONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
 ##### SPEECH TOPIC: ONLINE SECURITY - SOCIAL ENGINEERING Points to make: dangers of social engineering hacks (phishing, watering hole, whaling, pretexting, baiting and tailgating)
 
 (INTENDED AUDIENCE)
-The intended audience for this presentation is internet users in the US corporate workplace. This group of people use the internet casually but are not directly involved in information security and are not aware of the dangers presented by bad actors online.
+The intended audience for this presentation is internet users in the US corporate workplace. This group of people use the internet casually but are not directly involved in information security and are not aware of the dangers presented by bad actors online. 
 
 (IMPORTANCE STATEMENT)
 Workers in US corporations have frequent access to very sensitive, confidential information such as financial, medical and other personally identifieble data for virtually everyone in the country. When exposed in data breaches this information can materially harm innocent people. 
 
-THE POINT IS THAT ONLINE SECURITY IS IMPORTANT. 
+PRESENTATION PLAN
+
+INTRODUCTION (opening statement, thesis, preview of main points)
+
 
 [Since this applies to most people there is an enormous attack surface exposed to bad actors on the internet. The fact that most people are not aware of the risks posed by insecure internet usage leaves confidential information vulnerable to many types of attacks. Everyone has personal, confidential data that is being stored online, whether that is through housing records, medical records, driving or insurance records, school records or any other of dozens of types of records. The lack of proper awareness and training for most people who use the internet means that the sensitive and confidential personal data of every person in the world is at risk.}     
 
