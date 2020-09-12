@@ -1,4 +1,4 @@
-ONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
+MONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
 ##### SPEECH TOPIC: ONLINE SECURITY - SOCIAL ENGINEERING Points to make: dangers of social engineering hacks (phishing, watering hole, whaling, pretexting, baiting and tailgating)
 
 (INTENDED AUDIENCE)
@@ -9,17 +9,9 @@ Workers in US corporations have frequent access to very sensitive, confidential 
 
 PRESENTATION PLAN
 
-INTRODUCTION (opening statement, thesis, preview of main points)
-
-
-[Since this applies to most people there is an enormous attack surface exposed to bad actors on the internet. The fact that most people are not aware of the risks posed by insecure internet usage leaves confidential information vulnerable to many types of attacks. Everyone has personal, confidential data that is being stored online, whether that is through housing records, medical records, driving or insurance records, school records or any other of dozens of types of records. The lack of proper awareness and training for most people who use the internet means that the sensitive and confidential personal data of every person in the world is at risk.}     
-
-(ATTENTION GRABBING OPENING)
+(ATTENTION GETTING OPENING)
 Someone is trying to steal your information ! Because the majority of people do not have any idea how to protect themselves online 
 The need for education on the basics of information security is very real. Many people do not have any idea how to keep themselves safe online and numerous bad actors are trying to steal sensitive, confidential information from wherever they can to use for personal gain. Threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most people completely vulnerable. This paper is focused on the dangers of social engineering attacks. Studies show that 30 percent of individuals would open an email even if they were aware it was suspicous. This type of attack typically involves some form of psychological manipulation, exploiting weaknesses in human logic known as cognitive biases. NEEDS MORE
-
-(GENERAL PURPOSE STATEMENT, identify if informative or persuasive in nature)
-The purpose of my presentation is to inform my audience about the dangers of social engineering attacks on typical internet users.
 
 (THESIS STATEMENT)
 Information security research suggests that social engineering attacks are extremely effective because (a) people are trusting (phishing/ quid pro quo) and (b) because people do not take security seriously.(find data to support this)
@@ -39,14 +31,13 @@ Quid pro quo.
 This is a sophisticated method of attck is a hybrid version of other common methods. The attacker would offer assistance and pretend to be, for example, a technical expert when the victim is facing technical issues. The attacker would ask the victim to install malware in one way or the other or convince the victim to provide login credentials.
 (restatement of thesis)
 
-(SUMMARY OF MAIN POINTS)
+RESTATEMENT OF THESIS
 
-(CLOSING COMMENTS)
+SUMMARY OF MAIN POINTS
 
+CLOSING COMMENTS
 
-STRUCTURE SUGGESTIONS
-Remove discussion around company related training, see if 5 minutes can be met without this discussion. It makes the content less clear and will introduce the requirement for additional supporting documents.
-
+[Since this applies to most people there is an enormous attack surface exposed to bad actors on the internet. The fact that most people are not aware of the risks posed by insecure internet usage leaves confidential information vulnerable to many types of attacks. Everyone has personal, confidential data that is being stored online, whether that is through housing records, medical records, driving or insurance records, school records or any other of dozens of types of records. The lack of proper awareness and training for most people who use the internet means that the sensitive and confidential personal data of every person in the world is at risk.}     
 
 
 
