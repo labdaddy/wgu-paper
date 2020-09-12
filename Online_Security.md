@@ -1,4 +1,5 @@
-MONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
+ONSTERS UNDER THE BED, THE IMPORTANCE OF ONLINE SECURITY IN THE WORKPLACE
+##### SPEECH TOPIC: ONLINE SECURITY - SOCIAL ENGINEERING Points to make: dangers of social engineering hacks (phishing, watering hole, whaling, pretexting, baiting and tailgating)
 
 (INTENDED AUDIENCE)
 The intended audience for this presentation is internet users in the US corporate workplace. This group of people use the internet casually but are not directly involved in information security and are not aware of the dangers presented by bad actors online.
