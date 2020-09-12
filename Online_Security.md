@@ -23,6 +23,7 @@ Today I am going to talk about two main points that show why social engineering 
 
 
 (MAIN POINT ONE WITH THREE SUB POINTS)
+People are trusting. One of the most common social engineering attacks is called phishing. 
 Phishing
 Phishing email method of social engineering attacks and quid pro quo method of social engineering attacks.
 The common phishing email method is a type of attack in which a message or email would redirect the victim to a legitimate-appearing site and would ask for personal identification information.
