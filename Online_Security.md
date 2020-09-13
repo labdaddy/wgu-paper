@@ -55,37 +55,7 @@ As with other social engineering schemes, Quid Pro Quo is best prevented by ensu
 People do not take security seriously. 
 
 
-(restatement of thesis)
-
-
-MATERIAL BELOW IS POSSIBLY USEABLE
-EXAMPLE: The following example illustrates the thesis with the preview (in italics): “New York Fashion Week is an exciting event that many of us have heard about and during which designers reveal the upcoming season’s collection to fashion journalists and retail buyers, and in my speech, I will explain the event and share my experiences as an attendee. First I will present the event’s history, then I will preview the fashions on display and finally I will describe for you what to expect should you attend the week.”
-This clearly illustrates the need for further education on the dangers of social engineering attacks through the medium of email. In addition there is the common approach of quid pro quo social engineering attacks where an attacker poses as an authority figure or technical representative that can be trusted with sensitive or confidential information.
-This paper is focused on the dangers of social engineering attacks. Studies show that 30 percent of individuals would open an email even if they were aware it was suspicous. This type of attack typically involves some form of psychological manipulation, exploiting weaknesses in human logic known as cognitive biases. NEEDS MORE
-
-RESTATEMENT OF THESIS
-
-SUMMARY OF MAIN POINTS
-
-CLOSING COMMENTS
-
-[Since this applies to most people there is an enormous attack surface exposed to bad actors on the internet. The fact that most people are not aware of the risks posed by insecure internet usage leaves confidential information vulnerable to many types of attacks. Everyone has personal, confidential data that is being stored online, whether that is through housing records, medical records, driving or insurance records, school records or any other of dozens of types of records. The lack of proper awareness and training for most people who use the internet means that the sensitive and confidential personal data of every person in the world is at risk.}     
-
-
-
-Major claim: Social engineering is very effective and therefore very dangerous
-Main point 1: social engineering is commonly implemented through phishing 
-Main point 2: social engineering is also commonly implemented through quid pro quo 
-
-
-PHISHING
-This is a type of attack in which a message or email would redirect the victim to a legitimate-appearing site and would ask for personal identification information.
-The message would reflect a sense of urgency and test an individual’s excellent knowledge in judging information in the extreme environment.
-
-
-QUID PRO QUO
-This is a hybrid version of the others. The attacker would offer assistance and pretend to be a technical expert when the victim is facing technical issues. The attacker would ask the victim to install malware in one way or the other.
-
+(restatement of thesis
 
 Defense in depth/ Risk mitigation
 
