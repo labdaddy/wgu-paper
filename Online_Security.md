@@ -40,12 +40,14 @@ The team behind the scam was highly organized. Then-director of the FBI, Robert 
 The operation was relatively simple by today’s standards, but managed to steal about $15 million from hundreds or even thousands of bank accounts.
 A multinational team of US based and Egyptian hackers coordinated this large-scale project. The FBI ultimately charged more than 100 individuals, relying on cooperation from Egyptian national security agents to capture nearly half of them outside United States’ territory. 47 people were convicted in a Los Angeles Federal court. (Forbes Magazine, May 15th, 2012)
 
+Spear phishing
+Spear phising attacks are a specialized sub set of regular phishing attacks. In spear phishing the attack is targeted for a specific individual. The hacker will identify the target, perform research and then send a carefully crafted and personalized email that looks legitimate. The victim opens the email which introduces malware into the target network. The malware can either steal or destroy date directly or provide remote access for the attacker. 
+In 2015 teenage UK based hacker Kane Gamble successfully spear fished the email account of the deputy director of the CIA and other security officials. The directors email account with Verizon was part of the hackers targeted spearfishing campaign that resulted in full account access. The hacker forwarded numerous emails to the free palestine movement. (SecurityAffairs.co, 10/20/2015, SecurityAffairs.co, 04/21/2018)
+
 Quid pro quo.
 A quid pro quo attack promises a service or a benefit based on the execution of a specific action. In a quid pro quo attack scenario, the hacker offers a service or benefit in exchange for information or access.
-Fake security or IT personnel contact random individuals, inform them that there’s been a computer problem on their end and ask that those individuals confirm their login crededtials or often even more 
-The most common quid pro quo attack occurs when a hacker impersonates an IT staffer for a large organization. That hacker attempts to contact via phone the employees of the target organization then offers them some kind of upgrade or software installation.
-They might request victims to facilitate the operation by disabling the AV software temporarily to install the malicious application.
-
+Fake security or IT personnel contact random individuals, inform them that there’s been a computer problem on their end and ask that those individuals confirm their login crededtials or a multi factor authentication code.
+As with other social engineering schemes, Quid Pro Quo is best prevented by ensuring that employees are aware of this tactic and trained on an appropriate response.  Corporate teams should hold ongoing discussions about which company information is appropriate to share and in which scenarios.  An employee should never divulge sensitive information unless the employee initiated the exchange.  If an outside caller initiated the exchange, the employee would be wise to call this person back at the phone number on the caller’s company website.
 
 
 (MAIN POINT TWO WITH THREE SUB POINTS)
