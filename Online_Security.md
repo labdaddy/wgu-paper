@@ -14,10 +14,10 @@ To put into perspective the extraordinary cost of information security failures;
 PRESENTATION PLAN
 
 (ATTENTION GETTING OPENING)
-Someone is trying to steal your personal information ! Social engineering threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most people completely vulnerable. 
+Someone is trying to steal your personal information ! Social engineering threats are everywhere online and offline. The range of potential attacks is staggering and not being aware of some of the more common attack vectors leaves most corporate employees completely vulnerable. 
 
 (THESIS STATEMENT)
-Information security research suggests that social engineering attacks are extremely effective because people are naturally trusting (phishing/ quid pro quo) and because people do not take security seriously.
+Information security research concludes that social engineering attacks are extremely effective because people are naturally trusting and because people do not take security seriously.
 
 (PREVIEW OF MAIN POINTS)
 Today I am going to talk about two main points that show why social engineering attacks are so effective, these are:
@@ -58,11 +58,17 @@ The United Kingdom's digital media department released a report in 2019 called t
 One of the worrying trends outlined in this report is the fact that only 35% of companies have a board member with specific security related responsibilites. Even among large companies more than 40 percent did not have a board member with a specific security responsibility.
 
 No security plan in place.
-The same UK based report highlights the fact that very few companies have created a formal response plan to a cyber security event. This is in spite of the fact that nearly a third (32%) of businesses and more than twenty percent of charities (22%) reported having some kind of cyber security breach or attack in the last 12 months.
+Even though nearly one third of the surveyed respondents (32%) had experienced a data breach or other cyber attack in the previous twelve months, few businesses are taking the time to create an incident response plan. 
+With so few companies having created a formal response plan to a cyber security event, they are left in a very dangerous position. With the likelihood of a security incident so high there is a huge disconnect between the need for responsible security measures and their implementation. (UK government, Cyber Security Breaches Survey 2019, Department for Digital culture, media and sport)
 
+(restatement of thesis)
+As we have seen, the effectiveness and therefore the danger, of social engineering attacks are due largely to most corporate employees trusting natures and a general lack of willingness to take security measures seriously at all levels of business.
 
+During this presentation I talked about the following points:
+Social engineering attacks are effective because people tend to be too trusting of external emails, IT staff or anyone in a position of a technical nature.
+And that people do not take the full measure of risk involved in lax security procedures including not having a security focused culture from the top down and not being prepared with a written plan to deal with a security incident.
 
-(restatement of thesis
+It is my sincere belief that unless and until the corporate culture changes to accept the responsibility of training employees in security best practices, including a security focus from the top down and preparing for a data breach or other attack, the current trend of breach after breach will continue.
 
 Defense in depth/ Risk mitigation
 
