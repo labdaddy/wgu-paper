@@ -68,18 +68,9 @@ During this presentation I talked about the following points:
 Social engineering attacks are effective because people tend to be too trusting of external emails, IT staff or anyone in a position of a technical nature.
 And that people do not take the full measure of risk involved in lax security procedures including not having a security focused culture from the top down and not being prepared with a written plan to deal with a security incident.
 
-It is my sincere belief that unless and until the corporate culture changes to accept the responsibility of training employees in security best practices, including a security focus from the top down and preparing for a data breach or other attack, the current trend of breach after breach will continue.
+It is my sincere belief that unless and until the corporate culture changes to accept the responsibility of training employees in security best practices, including a security focus from the top down and preparing for a data breach or other attack, the current trend of breach after breach will continue. I think that a minimum change to the typical business approach to security mindset should be:
+1. Ongoing training in security best practices, i.e. not opening emails from unknown senders, not following suspect links to dangerous websites, not sharing login credentials with anyone
+2. Member of the C-suite with a security mandate and the authority to enforce it
+3. A corporate culture that embraces security preparation with security integrated into their operational objectives
+4. Clear, direct documentation on steps to follow in the event of a data breach or other security incident (Incident response plan)
 
-Defense in depth/ Risk mitigation
-
-Security Policy: A well written policy should
-include technical and nontechnical approaches that
-are downward driven by executive management.
-Every organization should integrate security into
-their operational objectives.
-Education and Training: Employees ought to be
-required to attend initial training during orientation
-and recurring refresher trainings.
-This builds
-awareness by exposing users to commonly employed
-tactics and behaviors targeted by a social engineer.
