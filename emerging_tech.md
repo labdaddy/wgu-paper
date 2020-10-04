@@ -1,4 +1,3 @@
-#### WGU Emerging Tech Paper
 A.  Organizational Need
 Summarize an organizational need in the case study, including the scope of the need. 
 
@@ -19,6 +18,22 @@ F: Adoption Metrics
 
 G: Sources
 	Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized. 
+	
+
+STREET PROCESS FOR THIS PAPER
+SCOPE:
+
+TRACK:
+
+RANK:
+
+EVALUATE:
+
+EVANGELIZE:
+
+TRANSFER:
+
+
 
 
 Issues that can be solved for this paper:
