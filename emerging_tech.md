@@ -11,7 +11,6 @@ Propose an emerging technology solution to address the organizational need from 
 For all of the reasons outlined above the SolarWinds SIEM product is the perfect solution. It combines out-of-the-box use, a security IDS for the network, automated threat collection, a dashboard for easy analysis of log data and it is NIST FISMA compliant.
 
 C.  Adoption process
-
 Outline an adoption process for the technology solution you plan to implement, using the risks and benefits of early adoption versus the risks and benefits of later adoption to justify your adoption timing.
 	
 	 
