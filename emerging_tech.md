@@ -12,8 +12,6 @@ B. Emerging Technology Solution
 C.  Adoption process
 	Outline an adoption process for the technology solution you plan to implement, using the risks and benefits of early adoption versus the risks and benefits of later adoption to justify your adoption timing.
 	
-	 
-	
 D. Technology Impact
 	Describe potential positive and negative effects your technology solution could have on the people and current processes in the organization, providing examples for how to address any negative effects. 
 	The potential positive impacts of this technology solution on the people and current processes in the organization are:
