@@ -13,7 +13,6 @@ For all of the reasons outlined above the SolarWinds SIEM product is the perfect
 C.  Adoption process
 Outline an adoption process for the technology solution you plan to implement, using the risks and benefits of early adoption versus the risks and benefits of later adoption to justify your adoption timing.
 	
-	 
 	
 D. Technology Impact
 
