@@ -7,11 +7,29 @@ B. Emerging Technology Solution
 
 Propose an emerging technology solution to address the organizational need from the case study. Provide justification that classifies this technology as emerging. 
 
-For all of the reasons outlined above the SolarWinds SIEM product is the perfect solution. It combines out-of-the-box use, a security IDS for the network, automated threat collection, a dashboard for easy analysis of log data and it is NIST FISMA compliant.
+For all of the reasons outlined above the SolarWinds SIEM product is the perfect solution. It combines out-of-the-box use, a security IDS for the network, automated threat collection, a dashboard for easy analysis of log data and it is NIST FISMA compliant. At a stroke, this single product solves several key issues facing the TechFite and it does so in an affordable, user friendly manner.
 
 C.  Adoption process
 
 Outline an adoption process for the technology solution you plan to implement, using the risks and benefits of early adoption versus the risks and benefits of later adoption to justify your adoption timing.
+SCOPE: 
+The business focus and context for this emerging technology adoption are the critical business functions of:
+1. Medical device manufacture and;
+2. Maintaining a secure network to protect TechFite's propietary technology that allows humans to work longer in space.
+As the organization is not very aggressive with respect to adopting emerging technologies, the SolarWinds product offers a great solution to several core issues without requiring any additional investment in training, equipment or risk.
+
+
+TRACK: 
+The relevant technologies for solving several important business issues are listed below:
+AT & T AlienVault USM, 
+
+RANK:
+
+EVALUATE:
+
+EVANGELIZE:
+
+TRANSFER:
 	
 D. Technology Impact
 
@@ -46,16 +64,6 @@ Issues that can be solved for this paper:
 5. NIST adoption	
 
 STREET PROCESS FOR THIS PAPER
-SCOPE:
 
-TRACK:
-
-RANK:
-
-EVALUATE:
-
-EVANGELIZE:
-
-TRANSFER:
 
 
