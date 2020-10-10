@@ -1,5 +1,6 @@
 A.  Organizational Need
 Summarize an organizational need in the case study, including the scope of the need:
+
 TechFite has a strong organizational need for a centralized method of providing the needed network security, log analysis and FISMA compliance. Without the ability to secure the network, accurately analyze our log data and achieve FISMA compliance we risk the future revenue of the company. The system administrators are so busy keeping up with the technology they have they will not have time to research new technologies that might help them do their jobs better. This means TechFite has a very strong need for an affordable, user friendly, multi solution product.
 
 B. Emerging Technology Solution
