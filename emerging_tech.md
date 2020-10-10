@@ -22,6 +22,7 @@ The potential positive impacts of this technology solution on the people and cur
 4. User Friendly: The SolarWinds product is very user friendly so the system administrators can get up and running with this solution and not detract from their other duties.
 
 E. Technology Comparison
+
 Compare your technology solution to similar existing technology solutions, including details that qualify how your chosen technology better supports the organization’s mission, goals, and vision. Comparing the SolarWinds techno.
 
 F. Adoption Metrics
@@ -29,6 +30,7 @@ F. Adoption Metrics
 Propose methods for measuring the impact of the technology, including specific metrics that would support whether the adoption is successful or unsuccessful. 
 
 G. Sources
+
 Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized. 
 
 
