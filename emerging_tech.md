@@ -15,7 +15,7 @@ Outline an adoption process for the technology solution you plan to implement, u
 	
 D. Technology Impact
 
-Describe potential positive and negative effects your technology solution could have on the people and current processes in the organization, providing examples for how to address any negative effects. 
+Describe potential positive and negative effects your technology solution could have on the people and current processes in the organization, providing examples for how to address any negative effects. 
 The potential positive impacts of this technology solution on the people and current processes in the organization are:
 1. Improved security: The SolarWinds product includes an intrusion detection system (IDS) that has out of the box pre-configuration to detect hundreds of typical online threats.
 2. Log analysis: The Solarwinds product includes a user friendly dashboard for viewing collected logs and pulling useful data from them
