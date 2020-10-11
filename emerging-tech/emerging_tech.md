@@ -22,6 +22,10 @@ As the organization is not very aggressive with respect to adopting emerging tec
 TRACK: 
 The relevant technologies for solving several important business issues are listed below in order of value offered and maturity:
 IBM Security, Splunk, Logpoint, SolarWinds
+IBM: complex pricing model, high cost
+Splunk: pricing model based on data throughput, high likelihood of very high cost
+Logpoint:
+Solarwinds: clear, practical pricing model based on connected devices. Combines similar out of the box features as the more expensive options
 
 RANK:
 
