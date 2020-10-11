@@ -1,2 +1,2 @@
-# wgu-paper
-WGU Security Paper
+# wgu-papers
+
