@@ -12,16 +12,16 @@ For all of the reasons outlined above the SolarWinds SIEM product is the perfect
 C.  Adoption process
 
 Outline an adoption process for the technology solution you plan to implement, using the risks and benefits of early adoption versus the risks and benefits of later adoption to justify your adoption timing.
+
 SCOPE: 
 The business focus and context for this emerging technology adoption are the critical business functions of:
 1. Medical device manufacture and;
 2. Maintaining a secure network to protect TechFite's propietary technology that allows humans to work longer in space.
 As the organization is not very aggressive with respect to adopting emerging technologies, the SolarWinds product offers a great solution to several core issues without requiring any additional investment in training, equipment or risk.
 
-
 TRACK: 
-The relevant technologies for solving several important business issues are listed below:
-AT & T AlienVault USM, 
+The relevant technologies for solving several important business issues are listed below in order of value offered and maturity:
+IBM Security, Splunk, Logpoint, SolarWinds
 
 RANK:
 
