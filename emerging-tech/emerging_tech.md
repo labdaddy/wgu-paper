@@ -1,21 +1,22 @@
+Emerging Technologies (C850) Task 1
+Gregory Devlin (Student ID: #001236013)
+Western Governors University 
 
-A. Organizational Need Summarize an organizational need in the case study, including the scope of the need:
 
-TechFite has a strong organizational need for a centralized method of providing the needed network security, log analysis and FISMA compliance. Without the ability to secure the network, accurately analyze our log data and achieve FISMA compliance we risk the future revenue of the company. The system administrators are so busy keeping up with the technology they have they will not have time to research new technologies that might help them do their jobs better. This means TechFite has a very strong need for an affordable, user friendly, multi solution product.
+A. Organizational Need 
+
+TechFite has a strong organizational need for a centralized method of providing needed network security, log analysis and FISMA compliance. Without the ability to secure the network, accurately analyze our log data and achieve FISMA compliance we risk the future revenue of the company. The system administrators are so busy keeping up with the technology they have they will not have time to research new technologies that might help them do their jobs better. This means TechFite has a very strong need for an affordable, user friendly, multi solution product.
 
 B. Emerging Technology Solution
 
-Propose an emerging technology solution to address the organizational need from the case study. Provide justification that classifies this technology as emerging. 
+The Solutions Review Board is proposing that TechFite adopt a security SIEM platform to solve the several problems currently facing TechFite in a cost effective, user friendly and FISMA compliant manner. Though SIEM platforms have existed in various forms for some time, the all in one, multi solution package SIEM platforms currently available are in the earlier stages of their development/ maturity and thus consitute an emerging technology.
 
-For all of the reasons outlined above the SolarWinds SIEM product is the perfect solution. It combines out-of-the-box use, a security IDS for the network, automated threat collection, a dashboard for easy analysis of log data and it is NIST FISMA compliant. At a stroke, this single product solves several key issues facing the TechFite and it does so in an affordable, user friendly manner.
 
 C. Adoption process
 
-Outline an adoption process for the technology solution you plan to implement, using the risks and benefits of early adoption versus the risks and benefits of later adoption to justify your adoption timing.
-
 SCOPE: 
 
-The business focus and context for this emerging technology adoption are the critical business functions of (1) medical device manufacture and (2) maintaining a secure network to protect TechFite's propietary technology that allows humans to work longer in space. 
+The business focus and context for this emerging technology adoption are the critical business functions of (1) medical device manufacture and (2) maintaining a secure network to protect TechFite's proprietary technology that allows humans to work longer in space. 
 As the organization is not aggressive with respect to adopting emerging technologies, the SolarWinds product offers a great solution to several core issues that support the critical business functions without requiring any additional investment in training, equipment or risk.
 The scope of use for this platform is to provide an optimal solution to TechFite's numerous pressing issues. The optimal solution will offer the best combination of the following (5) factors:
 1. Cost
@@ -50,7 +51,9 @@ muliple solutions is a powerful combination that puts TechFite in a strong posit
 
 EVANGELIZE:
 After the review and comparison, the IBM Security, Splunk and LogPoint SIEM platforms have been identified as having problems that are not compatible with the needs of TechFite. 
-The SolarWinds platform combines solutions to multiple issues plaguing TechFite, a simplified pricing model, a robust peer community for assistance with deployments and operation, network security features, log analysis and FISMA compliance. This platform is the clear winner and the best solution for TechFite.
+In contrast, SolarWinds combines a simplified pricing model, out-of-the-box use, a security IDS for the network, automated threat collection, a dashboard for easy analysis of log data, a robust peer community for assistance with deployments and operation and it is NIST FISMA compliant. At a stroke, this single product solves several key issues facing TechFite and it does so in an affordable, user friendly manner.
+This platform is the clear winner for TechFite.
+
 
 
 TRANSFER:
@@ -58,8 +61,6 @@ TRANSFER:
 The transfer of this recommended platform will be the adoption of its use by the system administrators whose responsibilities will include deployment and maintenance of the SIEM platform as well as analysis of logs collected and preparation of the date for FISMA compliance.
 
 D. Technology Impact
-
-Describe potential positive and negative effects your technology solution could have on the people and current processes in the organization, providing examples for how to address any negative effects. 
 
 The potential positive impacts of this technology solution on the people and current processes in the organization are an improvement in the overall security of the TechFite network, quality log analysis for data gathering and FISMA compliance to allow TechFite to compete in the market under the growing pressure to become FISMA compliant.
 
@@ -70,24 +71,29 @@ User Friendly: The SolarWinds product is very user friendly so the system admini
 
 E. Technology Comparison
 
-Compare your technology solution to similar existing technology solutions, including details that qualify how your chosen technology better supports the organization’s mission, goals, and vision. 
-
 Comparing the SolarWinds technology to the IBM, Splunk and LogPoint options, the SolarWinds solution provides a clear and beneficial combination of the factors that are most important to TechFite:
 1. Cost
 2. Ease of use and deployment
 3. Network security 
 4. Log analysis
 5. FISMA compliance
-With the firm requirements of lower cost of acquisition and deployment, ease of use and FISMA compliance this solution is the clear and obvious choice to meet the goals of TechFite's mission and to further TechFite's expansion in the market place by solving pressing business issues that TechFite is currently facing.
+With the firm requirements of low cost of acquisition and deployment, ease of use and FISMA compliance this solution is the clear and obvious choice to meet the goals of TechFite's mission and to further TechFite's expansion in the market place by solving pressing business issues that TechFite is currently facing.
 
 F. Adoption Metrics
 
-Propose methods for measuring the impact of the technology, including specific metrics that would support whether the adoption is successful or unsuccessful. 
-
 Adoption metrics that will ensure the successful adoption of the SolarWinds SIEM platform are:
-1. A careful collection of incident 
+1. A careful collection of incidents logged by the SIEM platform to verify data collected is useful in mitigating incidents.
+2. Measurement of the time to deploy the platform to ensure efficient adoption and use of resources
+3. Proof of completion of the FISMA compliance requirements to promote the company’s interest in providing the requested compliance and to ensure the company is in a strong market position moving forward.
 
 G. Sources
 
 Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized. 
 
+
+
+1. Cost
+2. Ease of use and deployment
+3. Network security 
+4. Log analysis
+5. FISMA compliance
